@@ -1,8 +1,7 @@
-# Zac-dot Blog Files
 
-[![pages-build-deployment](https://github.com/Zac-dot/Zac-dot.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Zac-dot/Zac-dot.github.io/actions/workflows/pages/pages-build-deployment)
+# Previous Zac-dot Blog Files
 
-This repo contains the files for the GitHub Pages site of Zac-dot.
+This repo contains the files for the GitHub Pages site of Zac-dot. These have since been archived, and a new version of the blog (with more control) has been deployed. The source code for that site can be seen [here](https://github.com/Zac-dot/deltrese-qs). Still the same domain though
 
 ## Introduction
 
